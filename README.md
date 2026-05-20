@@ -58,7 +58,7 @@ Gmail Trigger
 ---
 
 ## Demo Video
-
+[![AI Email Bot Demo](./AiGmailreplyThumbnail.png)](https://youtu.be/0MqvwzDIAS0)
 
 
 ---
