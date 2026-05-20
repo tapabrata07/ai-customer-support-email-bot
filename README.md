@@ -43,7 +43,8 @@ Gmail Trigger
 
 ## Screenshots
 
-(Add workflow screenshots here)
+[Workflow Screenshot](https://github.com/tapabrata07/ai-customer-support-email-bot/blob/20787cbe04ff428d52ff756243fb788f7a56bd0e/customer%20support%20workflow.png)
+[Workflow Screenshot]()
 
 ---
 
